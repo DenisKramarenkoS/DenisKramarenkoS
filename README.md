@@ -1,3 +1,5 @@
-## Hi there 👋
+## About me
 
-3 words: haste makes waste
+• Comprehend: CSS | HTML
+• Know: JavaScript | Python
+• Know a little: Git | GitHub | C#
