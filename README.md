@@ -6,13 +6,13 @@ I bridge the gap between elegant design and complex engineering - equally passio
 ## 🛠 Technical Toolkit
 
 **Core Expertise:**  
-`React` · `TypeScript` · `JavaScript (ES6+)` · `CSS3` · `HTML5` · `Git/GitHub`
+`React` · `Next.js` · `GSAP` · `TypeScript` · `JavaScript (ES6+)` · `CSS3` · `HTML5` · `Git/GitHub`
 
 **Tools:**  
 `Webpack` · `Vite` · `Git/GitHub` · `Figma`
 
 **Currently Exploring:**  
-`Node JS`
+`Backend`
 
 ## 💡 What Drives Me
 
